@@ -15,3 +15,8 @@ function newF(){
     console.log('this is a new branch')
     console.log('this is feat a')
  }
+ function newfeatb(){
+    console.log('this is a new branch')
+    console.log('this is feat b')
+ }
+
