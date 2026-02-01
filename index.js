@@ -11,4 +11,6 @@ function isAbove18( ){
 function newF(){
     console.log('hey i am new to git')
 }
-
+ function newfeat(){
+    console.log('this is a new branch')
+ }
