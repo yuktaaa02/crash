@@ -1,7 +1,7 @@
 const age=24;
 const name="yukta";
 function sayName(){
-    console.log('my name is ' + name)
+    console.log('my name is ${name1}')
 }
 
 function isAbove18( ){
